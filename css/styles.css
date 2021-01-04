@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #444444;
+    color: white;
+}
+header{
+    background-color: #BA2023;
+}
+.main-title{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+.main-title-highlight{
+    color: #e7b537;
+}
+.highlighted{
+    text-decoration: underline;
+}
+.testimonies{
+    width: 200px;
+    border-radius: 50%;
+}
+.warranty{
+    background-color: black;
+}
+footer{
+    padding: 20px;
+    background-color: #C0982F;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+}
